@@ -1,0 +1,14 @@
+[
+  {
+    "cellsWalked" : 264,
+    "enemiesDefeated" : 3,
+    "foodEaten" : 0,
+    "hitsDealt" : 9,
+    "hitsTaken" : 10,
+    "levelReached" : 2,
+    "playerName" : "Pavel",
+    "potionsDrunk" : 0,
+    "scrollsRead" : 0,
+    "treasures" : 30
+  }
+]
